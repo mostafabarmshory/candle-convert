@@ -1,0 +1,21 @@
+/* Inner Tables */
+td.details-control {
+	background: url('details_open.png') no-repeat center center;
+	cursor: pointer;
+}
+
+tr.shown td.details-control {
+	background: url('details_close.png') no-repeat center center;
+}
+
+table.dataTable tbody tr {
+	text-align: center;
+}
+
+.tables-wrapper>.dataTables_wrapper {
+	width: 25%;
+}
+
+.tables-wrapper {
+	display: flex;
+}

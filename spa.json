@@ -1,0 +1,8 @@
+{
+	"name": "candle-convert",
+	"version": "0.1.0",
+	"title": "Candle Plot Convertor",
+	"description": "Converts Candle plot online",
+	"homepage": "https://coincodile.com",
+	"license": "MIT"
+}
